@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">MyLaptop</string>
+    <string name="laptop_name">Nama Laptop</string>
+    <string name="detail">Detail</string>
+    <string name="main_page">Halaman Utama</string>
+    <string name="detail_page">Halaman Detail</string>
+    <string name="about_page">Halaman About</string>
+    <string name="move_activity">Info Detail</string>
+    <string name="my_name">Muhada Fadhzil</string>
+    <string name="email">muhada.fadzil.mf@gmail.com</string>
+    <string name="send_email">Kirim Email</string>
+
+
+    <string name="content_text_acer_aspire_e5_473g_76rt">Minimalis, bodi cukup ramping, ringan, dan praktis, itulah kesan yang dihadirkan lewat tampilan laptop murah Acer Aspire E5-473G-76RT.
+
+Meskipun begitu, laptop ini tetap dibekali dengan daya mumpuni seperti prosesor Intel Core i7-5500U 2,4 GHz, RAM 8GB serta HDD 1 TB.
+
+Laptop ini juga tetap kuat digunakan untuk bermain game karena dibekali grafis NVIDIA GeForce 920M 2GB serta layar 14 Inci Full HD.
+
+Harga laptop ini pun dijual cukup murah, hanya sekitar Rp8,8 juta saja.</string>
+
+    <string name="content_text_acer_chromebook_514">Laptop Acer Chromebook 514 merupakan versi laptop murah dengan kualitas tinggi yang diproduksi oleh Acer.
+
+Bodi laptop premium ini masih mempertahankan material aluminium sebagai pelapis bodi utama.
+
+Layarnya sendiri hadir dengan mode touchscreen IPS 14 inci dengan resolusi hingga 1080p.
+
+Selain itu, keunggulan lainnya juga terdapat pada daya tahan batrenya yang mampu tetap hidup hingga 12 jam!
+
+Untungnya, harga laptop ini pun masih sangat terjangkau yaitu hanya sekitar Rp8,5 jutaan saja.</string>
+
+    <string name="content_text_apple_macbook_pro">Berbicara mengenai laptop, maka kurang rasanya tanpa menyebutkan produk dari perusahaan raksasa, Apple. Salah satu seri terbaik laptop ini ialah Apple Macbook Pro. Tentunya, laptop Apple sudah memiliki desain yang menggambarkan ciri khas dari Apple.
+
+Pilihan warna dari laptop ini ada dua yakni warna perak dan abu. Dengan ukuran layat 13,3 inci, laptop ini mudah dbawa kemana mana karena ukurannya yang tipis dan minimalis.</string>
+
+    <string name="content_text_asus_rog_zephyrus_g14">ASUS ROG Zephyrus G14 ini memiliki procesor AMD Ryzen 7 4800HS, layar 14-inch, RAM up to 32GB, SSD 512GB/1TB, GPU NVIDIA GeForce RTX 2060 dan OS Windows 10 Home/Pro.</string>
+
+    <string name="content_text_asus_rog_zephyrus_s">Satu lagi seri ROG Zephyrus S dengan desain mewah dan performa luar biasa. Dilengkapi dengan keyboard backlit RGB dan Aura Sync yang akan menambah kesenanganmu dalam bermain game online terbaik yang jadi favoritemu. Selain itu kualitas audio juga terbilang sangat nyaring dan jernih.</string>
+
+    <string name="content_text_asus_tuf_gaming">Gahar, berkelas, serta energik.
+
+Begitulah kesan yang terasa ketika melihat laptop ASUS TUF Gaming FX505 terbaru ini.
+
+Laptop ini dibekali dengan spesifikasi terbaik yang dapat menunjang performa tinggi tanpa kendala sama sekali.
+
+Laptop gaming ini hadir dengan 5 varian yang berbeda dari segi warna serta spesifikasinya.
+
+Di kelas laptop gaming sendiri, harga laptop ASUS TUF Gaming FX505 ini termasuk yang termurah namun dengan kualitas yang setara.Kamu bisa memilih mondapatkan laptop ASUS TUF Gaming FX505 dengan harga mulai dari sekitar Rp9,4 jutaan.</string>
+
+    <string name="content_text_asus_vivobook_a442uq">Merk laptop terbaik berikutnya hadir dari produk ASUS yang tak perlu diragukan lagi mutunya.
+
+ASUS  menawarkan laptop ASUS VivoBook A442UQ yang dihargai kurang dari 10 juta rupiah, atau harga laptop ini tepatnya Rp8.999.000.
+
+Laptop ini dijamin dapat memberikan performa tinggi karena didukung dengan prosesor i7, RAM 8GB, serta grafis NVIDIA GeForce 940MX.
+
+Ruang penyimpanannya pun cukup besar dengan adanya HDD 1 TB yang akan membuatmu cukup leluasa untuk menyimpan banyak file di dalamnya.</string>
+
+    <string name="content_text_asus_x550iu">Kalau kamu ingin lebih spesifik laptop untuk bermain game, maka merk laptop terbaik yang harus dipilih adalah ASUS X550IU.
+
+Laptop gaming ini didukung oleh prosesor AMD generasi ke-7 APU FX-9830P, 3.0 GHz – 3,7 GHz, dan RAM 8GB DDR4.
+
+Selain itu, laptop ini juga dibekali layar 15.6 inci Full HD dan 2 slot VGA R7 Graphics (512SP) yang menghasilkan kualitas gambar serta video optimal.
+
+Harga laptop ini masih dibanderol sangat terjangkau yaitu sekitar Rp9,5 jutaan saja.</string>
+
+    <string name="content_text_dell_vostro_5470">Dell merupakan salah satu produsen laptop terbaik yang mengeluarkan berbagai pilihan laptop dengan harga yang cukup terjangkau. Berbagai seri laptop dell berada di kelas premium. Tipe laptop dell yang sering digunakan dikalangan pebisnis ialah Dell Vostro. Dengan ukuran layar mencapai 14 inci, namun berat laptop ini tetap ringan.
+
+Spesifikasi laptop ini dilengkapi dengan prosesor Intel core i3  dan juga mempri DDR3 4GB. Laptop ini juga memiliki daya baterai lama sehingga bisa digunakan dalam waktu yang lama. Dengan sistem operasi uBUntu membuat laptop ini dapat bekerja baik saat membuka aplikasi ringan hingga menengah.</string>
+
+    <string name="content_text_hp_chromebook">Merk laptop yang terkenal karena kualitas produknya ialah HP. Terdapat berbagai series laptop HP yang sesuai dengan kebutuhan dan berbagai harga. Salah satu tipe laptop terbaik dari HP ialah HP Chromebook. Sistem operasi yang digunakan pada laptop ini bukan windows maupun linux namun sistem chrome.
+
+Jika laptop pada umumnya tidak terlalu memikirkan kualitas webcam, maka laptop ini justru memilki webcam dengan kulaits yang baik. Dengan menggunakan CPU intel dan grafis dari Intel HD Graphics, laptop ini cocok digunakan oleh mahasiswa maupun pekerja dengan harga yang terjangkau.</string>
+
+    <string name="content_text_huawei_matebook_13">Bagi para pecinta laptop dengan ukuran tipis dan minimalis, Huawei Matebook 13 adalah pilihan yang tepat. Laptop dengan kualitas preium ini memiliki ketebalan 0.58 inch dengan berat hanya sebesar 1.2 kg. Dengan ukuran layar seluas 13 inch, teknologi layar sentuh ini memiliki resolusi 200 PPI.
+
+Terdapat dua pilihan dari seri Huawei Matebook 13 ini. Pilihan pertama ialah laptop dengan prosesor Intel Core i5-82650 dengan memori penyimpanan SSD 256 GB. Sementara pilihan lainnya ialah dengan menggunakan Intel Core i7 8565U dengan metode penyimpanan SSD 512 GB.</string>
+
+    <string name="content_text_xiaomi_mi_notebook_air">Produsen Xiaomi ternyata tak hanya menawarkan produk ponsel saja karena mereka pun punya laptop andalan yaitu Xiaomi Mi Notebook Air.
+
+Merk laptop terbaik asal pabrikan Cina ini hadir dalam dua pilihan, yaitu layar 12,5 inci dan layar 13,3 inci.
+
+Pilihan pertama hadir dengan prosesor Intel M3, RAM 4GB, serta ruang penyimpanan SSD dengan kapasitas 128 GB.
+
+Sedangkan versi lebih besarnya dibekali prosesor Intel Core i5, GPU NVIDIA GeForce 940MX, RAM 8GB, serta SSD 256 GB.
+
+Harga laptop Xiaomi Mi Notebook Air ini dijual mulai dari Rp5.590.000-an.</string>
+</resources>
